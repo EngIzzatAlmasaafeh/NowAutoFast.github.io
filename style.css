@@ -1,0 +1,9 @@
+h1:hover { 
+	transform: scale(1.1);
+	transition: 1s;
+}
+
+.n-logo:hover {
+	transform: scale(1.5);
+	transition: 1s;
+}
